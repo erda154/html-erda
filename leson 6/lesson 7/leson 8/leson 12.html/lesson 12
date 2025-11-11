@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="uft-8"
+        <meta name="viewport" content="width=device-width, intial-scale=1">
+        <title> LESSON 12</title>
+        <ilink rel="styleesheet"type="text/css" href="style.css"
+        
+    </head>
+    <body>
+        <h1>Dighital school</h1>
+        <h2>Overline</h2>
+        <h3> Line-through</h3>
+        <h4>Under line</h4>
+        <h5 class="My element"> Cracked concret</h5>
+
+        <p class="MY element">Lorem impus dolor sit amet comsectetur adipisicing ellt.Explicabo quis vere,ratlene quam adlt placeat quidem nulla, adlt fecills,
+            tentur culpa voluptatibus ex laborlasam
+            doloremque saepe aspernatrur quibusdam corparis. veniam</p>
+
+
+
+
+            <p id="Normal text">this is paragraph 1</p>
+            <p id="itallic text"> this is paragraph 2</p>
+            <p id="oblique text">this is paragraph 3</p>
+        
+
+
+
+
+
+
+
+
+    </body>
+</html>
