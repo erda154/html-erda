@@ -1,0 +1,36 @@
+div#static [
+    der: 3px solid: red;
+    width;position: static;
+    bor 200px;
+    height; 200px;
+    padding; 20px;
+]
+div#relative {
+    position:relative ;
+    border: 3px solid:blue;
+    width: 250px;
+    height:250px;
+    padding:20px
+
+}div#parent {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border: 3px solid yellow;
+}
+div#absolute {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    right: 80px;
+    top: 70px;
+    color: white;
+}
+div#sticky {
+    position: sticky;
+    top: 0;
+    background-color: brown;
+    padding: 20px;
+    color: white;
+} 
