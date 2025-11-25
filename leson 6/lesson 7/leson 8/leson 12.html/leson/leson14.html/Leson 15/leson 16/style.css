@@ -1,0 +1,31 @@
+div.gallery {
+    margin: 5px;
+    border: 1px solid #css;
+    float: left;
+    width: 180px;
+}
+div.gallery:hover {
+    border: 1px solid #777;
+}
+div.gallery img {
+    width: 100% ;
+    height: auto;
+}
+div.desc {
+    padding: left 15px;
+    text-align: center;
+}
+.world {
+    background: url(image1.png) no-repeat;
+}
+.picture {
+    width: 500px;
+    height: 300px;
+    display: inline-block;
+    background-position: 0 0;
+}
+a [href="https://learn.digitalschool.tech/mod/jitsi/session.php?avatar=https%3A%2F%2Flearn.digitalschool.tech%2Fuser%2Fpix.php%2F36918%2Ff1.jpg&nom=Erda%20Isma&ses=september25---1">
+[data-valu]
+    \Atrribute exists\
+}
+[]
