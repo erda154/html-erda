@@ -29,3 +29,64 @@ a [href="https://learn.digitalschool.tech/mod/jitsi/session.php?avatar=https%3A%
     \Atrribute exists\
 }
 []
+p { class~="ds"}
+background:blue;
+color:white;
+padding;10px;
+}
+div [id~="ds"]
+background-color:green;
+color:white;
+padding:10px;
+]
+h1 [class|="heading"
+    background-color:yellow;
+    padding:10px;
+    color:white
+
+]
+.tooltip{
+    position: relative;
+    display: inline-blox;
+    border- bottom 1px dashed black;
+}
+.tooltip .tooltip {
+visibility: hidden;
+width: 120px;
+background-color: black;
+color: #777;
+text-align: center;
+border-radius: 6px;
+padding: 5px 0;
+position: absolute;
+z-index: 1;
+top: -5px;
+left: 50px;
+top: 100;
+margin-left: -60px;
+}
+.tooltip:hover .tooltip{
+    visibility: visible;
+}
+.tooltip .tooltiptext::after{
+    content: "";
+    position: absolute;
+    top: 100;
+    left: 50px;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+}
+body{
+    counter-reset: number;
+}
+h2::before{
+    counter-increment: number;
+    content: counter(number);
+    background-color: aliceblue;
+    border-radius: 50%;
+    padding: 5px 12px;
+    color: blue;
+    margin: 10px;
+}
